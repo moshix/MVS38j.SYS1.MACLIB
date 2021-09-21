@@ -6,7 +6,7 @@ This library can be useful when porting software, or for assembler work under x8
 Please be advised that this macro library is different from the adapted, enhanced, fixed, and upgraded macro libaries usually included with the MVS 3.8 Turnkey systems (3 or 4). Those are usually called SYS2.MACLIB
 
 
-Enjoy
-Moshix
+Enjoy\\
+Moshix\
 Jan 2018
 
